@@ -72,7 +72,7 @@ Alpha Finance, Harvest Finance, Vesper Finance, Badger DAO, and yAxis all offer 
 ## *Performance & Adoption*
 ---
 
-The two best measures of Yearn Finance’s success are the yields earned by yEarn and the yVaults, and user adoption of its products. Currently, there are several yVaults that are offering estimated net annualized yields after fees in excess of 20 percent. Additionally, even Yearn’s stablecoin yVaults are offering annualized yields after fees ranging between 8 percent (USDT) and 24 percent (sUSD). Remarkably, the Dai and USDC stablecoin vaults, which are managing $640M and $325M respectively (as of May 31, 2021), are currently offering estimated annual yields of 10 and 12 percent, respectively (see link to Yearn Finance Vaults in citations).
+The two best measures of Yearn Finance’s success are the yields earned by yEarn and the yVaults, and user adoption of its products. Currently, there are several yVaults that are offering estimated net annualized yields after fees in excess of 20 percent. Additionally, even Yearn’s stablecoin yVaults are offering annualized yields after fees ranging between 8 percent (USDT) and 24 percent (sUSD). Remarkably, the Dai and USDC stablecoin vaults, which are managing roughly $640M and $325M respectively, are currently offering estimated annual yields of 10 and 12 percent, respectively (all figures as of May 31, 2021; see link to Yearn Finance Vaults in citations).
 
 [yVaults](https://yearn.finance/vaults/)
 ![yVaults](https://imgur.com/8DudwbT.png)
