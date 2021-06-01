@@ -77,7 +77,7 @@ The two best measures of Yearn Finance’s success are the yields earned by yEar
 [yVaults](https://yearn.finance/vaults/)
 ![yVaults](https://imgur.com/8DudwbT.png)
 
-Yearn’s simpler, more conservative Earn pools have posted strong performance as well. In fact, the Earn stablecoin pools have earned an estimated APY of 8.34% since their inception in mid-2020 (see link to Y Pool Statistics in citations).
+Yearn’s simpler, more conservative Earn pools have posted strong performance as well. In fact, the Earn stablecoin pools have earned an estimated APY of 8.34% since their inception in mid-2020 (as of May 31 2021; see link to Y Pool Statistics in citations).
 
 [Yearn Pool Statistics](https://curve.fi/combinedstats)
 ![Yearn Pool Statistics](https://imgur.com/ddVfXVj.png)
