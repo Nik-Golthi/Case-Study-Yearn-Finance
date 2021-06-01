@@ -77,10 +77,10 @@ The two best measures of Yearn Finance’s success are the yields earned by yEar
 [yVaults](https://yearn.finance/vaults/)
 ![yVaults](https://imgur.com/8DudwbT.png)
 
-Yearn’s simpler, more conservative Earn pools have posted strong performance as well. In fact, the Earn stablecoin pools have earned an estimated APY of 8.34% since their inception in mid-2020 (as of May 31 2021; see link to Y Pool Statistics in citations).
+Yearn’s simpler, more conservative Earn pools have posted strong performance as well. In fact, the Earn stablecoin pools have earned an estimated APY of 8.32% since their inception in mid-2020 (as of May 31, 2021; see link to Y Pool Statistics in citations).
 
 [Yearn Pool Statistics](https://curve.fi/combinedstats)
-![Yearn Pool Statistics](https://imgur.com/ddVfXVj.png)
+![Yearn Pool Statistics](https://imgur.com/4tLsjsG.png)
 
 
 Depositors to yEarn and yVault are never risking their underlying deposits. At any time, users are welcome to withdraw the initial funds deposited in full. As such, Andre Cronje has likened Yearn products to smart savings accounts. From this perspective, the yields earned by the Yearn Finance protocol are remarkable. According to Bankrate’s weekly national survey for the week of March 31, 2021, the “national average interest rate for savings accounts is 0.07 percent” (Goldberg). Furthermore, Bankrate’s survey found that the highest interest rates offered by online savings accounts are roughly 0.50 percent. This pales in comparison to the potential yields offered by the yEarn pools and yVault.
