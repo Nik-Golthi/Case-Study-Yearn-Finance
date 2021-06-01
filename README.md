@@ -2,7 +2,7 @@ This repository will store a case study report on the Yearn Finance decentralize
 
 ---
 
-# **Yearn Finance: A Pioneer in Blockchain-based Asset Management**
+# ***Yearn Finance: A Pioneer in Blockchain-based Asset Management***
 
 ## *Origin of Yearn Finance*
 ---
